@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CS388-Project-3-Flixster+"
+rootProject.name = "CS388-Project-4-FlixsterP2"
 include(":app")
  

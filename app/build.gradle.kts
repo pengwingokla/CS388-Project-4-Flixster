@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cs388_project_3_flixster"
-    compileSdk = 33
+    namespace = "com.example.cs388_project_4_flixsterp2"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.cs388_project_3_flixster"
+        applicationId = "com.example.cs388_project_4_flixsterp2"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
@@ -36,14 +36,15 @@ android {
 }
 
 dependencies {
+
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.9.0")
+    implementation("com.google.android.material:material:1.10.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.android.volley:volley:1.2.1")
-    implementation("com.codepath.libraries:asynchttpclient:2.2.0")
-    implementation("com.squareup.okhttp3:okhttp:4.9.1")
-    implementation("com.github.bumptech.glide:glide:4.14.2")
+    implementation("androidx.games:games-activity:2.0.2")
+    implementation("com.github.bumptech.glide:glide:4.12.0")
+    annotationProcessor("com.github.bumptech.glide:compiler:4.12.0")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
