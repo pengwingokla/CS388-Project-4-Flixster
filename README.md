@@ -1,4 +1,4 @@
-# Android Project 4 - Flixster Part 2
+# Flixster
 
 Submitted by: **Nguyen Thai Thao Uyen**
 
