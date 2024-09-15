@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 - [X] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
-## Notes
+## Demo
 
-Describe any challenges encountered while building the app.
+![alt-text](https://github.com/pengwingokla/CS388-Project-4-Flixster/blob/master/Flixster.mp4)
 
 ## License
 
