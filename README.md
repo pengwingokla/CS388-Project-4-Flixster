@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 ## Demo
 
-![alt-text](https://github.com/pengwingokla/CS388-Project-4-Flixster/blob/master/Flixster.mp4)
+![alt-text](https://github.com/pengwingokla/CS388-Project-4-Flixster/blob/master/Flixster.gif)
 
 ## License
 
